@@ -1,6 +1,6 @@
-# Implementação do QR code estático e dinâmico do Pix em PHP
+# Implementação do QR code dinâmico do Pix em PHP
 
-Código da implementação do QR code estático e dinâmico do Pix com C#, apresentado no canal [WDEV](https://youtube.com/wdevoficial).
+Código da implementação do QR code dinâmico do Pix em C#.
 
 ___________________
 
@@ -14,6 +14,5 @@ ___________________
 [API Pix - Github](https://github.com/bacen/pix-api)
 ___________________
 
-
-## Autor da versão PHP: William Costa
 ## Autor da versão C#: Eduardo Costa
+## Autor da versão PHP Original: William Costa [WDEV](https://youtube.com/wdevoficial).
