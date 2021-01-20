@@ -1,7 +1,0 @@
-G:\PIX\bin\Debug\PIX.exe.config
-G:\PIX\bin\Debug\PIX.exe
-G:\PIX\bin\Debug\PIX.pdb
-G:\PIX\obj\Debug\PIX.csprojAssemblyReference.cache
-G:\PIX\obj\Debug\PIX.csproj.CoreCompileInputs.cache
-G:\PIX\obj\Debug\PIX.exe
-G:\PIX\obj\Debug\PIX.pdb
