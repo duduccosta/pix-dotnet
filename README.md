@@ -4,6 +4,12 @@ Código da implementação do QR code dinâmico do Pix em C#.
 
 ___________________
 
+## Utilização
+
+Basta clonar o repositório e alterar o arquivo [Config.cs] para alteração das chaves e da URL do banco.
+
+___________________
+
 ## Documentação base do Bacen
 
 [Manual de padrões para iniciação do Pix](https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento_Pix/II-ManualdePadroesparaIniciacaodoPix-versao2-1.pdf)
